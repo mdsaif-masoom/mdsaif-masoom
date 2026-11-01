@@ -20,22 +20,13 @@ OUT = ROOT / "assets" / "info-card.svg"
 GIF_DISPLAY_W = 300
 CARD_W = 420
 
-USER, HOST = "raj", "tejash-veer46"
+USER, HOST = "saif", "mdsaif-masoom"
 # (key, value, priority) - lowest priority lines are dropped first if the card is short.
 INFO = [
-    ("OS", "Windows 11 · Ubuntu (CI runners)", 9),
-    ("Host", "LTM · SDET-1", 5),
-    ("Uptime", "Around 2 yrs breaking things on purpose", 2),
-    ("Shell", "TypeScript · Java · SQL", 8),
-    ("Stack", "Playwright · Selenium · Cucumber", 9),
-    ("Perf", "JMeter · Postman · SOAP UI · Claude/GHCP", 4),
-    ("Web", "React · Node.js · Express · Supabase", 6),
-    ("CI/CD", "Jenkins · GitHub Actions · Docker", 7),
-    ("Ships", "test frameworks · AI test-gen agents", 9),
-    ("Projects", "BaFive · AskMosaic RAG copilot", 3),
-    ("GitHub", "github.com/tejash-veer46", 8),
-    ("LinkedIn", "in/raj-tejashwy-1ba788206", 8),
-    ("Mail", "rajtejashwy@gmail.com", 7),
+    ("Name", "Mohammad Saif", 9),
+    ("GitHub", "github.com/mdsaif-masoom", 8),
+    ("LinkedIn", "in/mdsaifmasoom", 8),
+    ("Mail", "saifmasoom121@gmail.com", 7),
 ]
 NEOFETCH_COLORS = ["#484f58", "#ff7b72", "#3fb950", "#d29922", "#58a6ff", "#bc8cff", "#39c5cf", "#f0f6fc"]
 
